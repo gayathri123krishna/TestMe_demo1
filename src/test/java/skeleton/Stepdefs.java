@@ -23,7 +23,7 @@ public class Stepdefs {
 
 
 
-	private WebDriver driver;
+	 WebDriver driver;
 	static int numberOfProducts; 
 	@Given("Alex is on the login page")
 	public void alex_is_on_the_login_page() {
